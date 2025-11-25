@@ -1,4 +1,4 @@
-#🚀 Rock vs Mine Prediction – Machine Learning Project
+🚀 Rock vs Mine Prediction – Machine Learning Project
 
 This project applies Machine Learning (Logistic Regression) to classify sonar signals as Rock (R) or Mine (M).
 It uses the Sonar dataset, which contains 60 numerical features representing energy levels returned from sonar pulses.
